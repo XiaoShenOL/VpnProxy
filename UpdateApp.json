@@ -1,13 +1,13 @@
 {
     "versionCode":100000032, #软件版本号
 
-    "apkName":"Fugue1.32 10000032.apk", #软件名称
+    "apkName":"VpnProxy1.02.apk", #软件名称
 
      #下载地址
-    "downloadPath":"https://raw.githubusercontent.com/zhangweiqwe/AndroidProxy/master/fugue/config/fugue-v1.32.apk",
+    "downloadPath":"https://github.com/XiaoShenOL/VpnProxy/raw/master/app.apk",
 
      #更新说明
-    "description":"永久纪念版！",
+    "description":"告别QQ后台更新，做更有趣的更新！",
 
      #软件没有更新
     "noUpdatedescription":"没有更新！"
