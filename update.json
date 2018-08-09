@@ -2,15 +2,14 @@
 
 	"url":"http://192.168.205.33:8080/Hello/app_v3.0.1_Other_20150116.apk",
 
-	"Title":"发现新版本", #Title标题
+	"Title":"发现新版本", 
 
-	 "Positive":"下载更新", #Positive按钮
+	 "Positive":"下载更新",
 
-	 "Negative":"下次提示", #Negative按钮
+	 "Negative":"下次提示",
 
-	 "versionCode":6, #软件版本号
-	 
-   #软件更新说明
+	 "versionCode":6,
+	
 	 "Message":"本次更新作测试软件使用。无需作任何回复。"
 
 	}
