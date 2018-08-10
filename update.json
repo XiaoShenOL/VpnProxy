@@ -1,6 +1,6 @@
 {
 
-	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/app.apk",
+	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.02.apk",
 
 	"Title":"发现新版本", 
 
@@ -8,10 +8,11 @@
 
 	 "Negative":"下次提示",
 
-	 "versionCode":5,
+	 "versionCode":7,
 	
-	 "Message":"本次更新作测试软件使用。无需作任何回复。"
+	 "Message":"本次更新修复一下背景bug并作测试更新软件使用，如果无法更新请到qq群更新。"
 
-	}
+
+}
 
 	
