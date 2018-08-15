@@ -1,6 +1,6 @@
 {
 
-	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.02.apk",
+	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.03.apk",
 
 	"Title":"发现新版本", 
 
@@ -8,9 +8,17 @@
 
 	 "Negative":"下次提示",
 
-	 "versionCode":6,
+	 "versionCode":7,
 	
-	 "Message":"本次更新修复一下背景bug并作测试更新软件使用，如果无法更新请到qq群更新。"
+	 "Message":"更新说明
+
+①已加入Dns转发
+
+②打印日志已加入下拉刷新日志
+
+③修复大王卡模式重复换行的BUG
+
+④软件有问题请进群反馈，禁止打广告，谢谢合作！"
 
 }
 
