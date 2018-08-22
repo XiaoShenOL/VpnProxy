@@ -1,6 +1,6 @@
 {
 
-	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.04.apk",
+	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.05.apk",
 
 	"Title":"发现新版本", 
 
@@ -8,13 +8,11 @@
 
 	 "Negative":"下次提示",
 
-	 "versionCode":8,
+	 "versionCode":9,
 	
 	 "Message":"更新说明\n
-	①已更换启动VPN服务按钮\n
-	②修复应用放行长时间加载bug并加入下拉刷新\n
-	③编辑模式已加入小标题显示编辑文件名称\n
-	④软件有问题请进群反馈，禁止打广告，谢谢合作！\n"
+	①主要更新管理配置模块\n
+	②软件有问题请进群反馈，禁止打广告，谢谢合作！\n"
 
 }
 
