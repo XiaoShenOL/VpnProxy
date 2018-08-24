@@ -1,6 +1,6 @@
 {
 
-	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.05.apk",
+	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.06.apk",
 
 	"Title":"发现新版本", 
 
@@ -8,10 +8,10 @@
 
 	 "Negative":"下次提示",
 
-	 "versionCode":9,
+	 "versionCode":11,
 	
 	 "Message":"更新说明\n
-	①主要更新管理配置模块 \n
+	①支持大王卡动态抓包\n
 	②软件有问题请进群反馈，禁止打广告，谢谢合作！\n"
 
 }
