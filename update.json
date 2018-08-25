@@ -1,6 +1,6 @@
 {
 
-	"url":"https://github.com/XiaoShenOL/Proxy/raw/master/Proxy1.07.apk",
+	"url":"https://github.com/XiaoShenOL/Proxy/raw/master/Proxy1.08.apk",
 
 	"Title":"最新版本", 
 
@@ -8,10 +8,10 @@
 
 	 "Negative":"下次提示",
 
-	 "versionCode":12,
+	 "versionCode":15,
 	
 	 "Message":"更新说明\n
-	①修复腾讯王卡动态抓包已知bug \n
+	①修复腾讯王卡动态配置部分网站不能联网问题\n
 	②软件有问题请进群反馈，禁止打广告，谢谢合作！\n"
 
 }
