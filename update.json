@@ -2,15 +2,15 @@
 
 	"url":"https://github.com/XiaoShenOL/VpnProxy/raw/master/VpnProxy1.09.apk",
 
-	"Title":"发现新版本", 
+	"Title":"更新说明", 
 
-	 "Positive":"立即更新",
+	 "Positive":"",
 
-	 "Negative":"下次提示",
+	 "Negative":"",
 
-	 "versionCode":18,
+	 "versionCode":19,
 	
-	 "Message":"更新说明\n①此版本为1.09测试版\n②更换主页面UI，打印日志换到主页面\n③修复一下语法问题，支持自定义修改抓包报头\n④软件有问题请进群反馈(欢迎加入VpnProxy交流群①，群聊号码：592690155)(欢迎加入VpnProxy交流群②，群聊号码：543924377)，禁止打广告，谢谢合作！"
+	 "Message":"更新说明\n①由于软件被第三方人员买卖，已使用签名验证，与旧版的签名有所不同，无法直接下载安装。\n②更新软件请进群更新(先卸载旧版再安装新版)(欢迎加入VpnProxy交流群①，群聊号码：592690155)(欢迎加入VpnProxy交流群②，群聊号码：543924377)"
 
 }
 
